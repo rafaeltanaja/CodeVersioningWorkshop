@@ -1,0 +1,5 @@
+Git innit
+Git add
+Git commit
+Git switch
+Git checkout
